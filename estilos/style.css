@@ -7,7 +7,9 @@ body    {
     background-color: rgb(52, 184, 218);
 
 }
- 
+ img{
+    float: none;
+ }
 main {
     background-color: rgb(253, 254, 255);
     width: 500px;
